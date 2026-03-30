@@ -4,7 +4,7 @@
 
 This project investigates the robustness of deep learning-based MRI reconstruction models when subjected to distribution shifts. Specifically, it examines how models trained to reconstruct undersampled k-space data (accelerated MRI acquisition) perform when the test distribution differs from the training distribution — for example, through changes in undersampling pattern, acceleration factor, or noise level.
 
-The work is submitted as the final assignment for **ELEC70121: Trustworthy Artificial Intelligence in Medical Imaging (2024–2025)** at Imperial College London.
+The work is submitted as the final assignment for **ELEC70121: Trustworthy Artificial Intelligence in Medical Imaging** at Imperial College London.
 
 ## Requirements
 
